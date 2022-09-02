@@ -22,5 +22,13 @@ h2 {
     -webkit-text-stroke-width: 1px;
 }
 
+nav{
+    background-color:plum;
+    font-family:Impact;
+    font-size:30px;
+    text-align: center;
+    padding: 10px;
+}
+
 
  
