@@ -1,0 +1,26 @@
+body {
+    background-color: lavenderblush;
+    font-family: Tahoma;
+    font-size: 20px;
+}
+
+h1 {
+    background-color:lavender;
+    font-family:Impact;
+    font-size: 100px;
+    color: aliceblue;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+    text-align: center;
+}
+
+h2 {
+    font-family:Impact;
+    font-size: 50px;
+    color:aliceblue;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
+
+
+ 
